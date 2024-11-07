@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized police station lowpoly
+* source:	https://sketchfab.com/3d-models/stylized-police-station-lowpoly-92a79af1e546478abc67b07f59ded957
+* author:	kartr (https://sketchfab.com/kartr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized police station lowpoly" (https://sketchfab.com/3d-models/stylized-police-station-lowpoly-92a79af1e546478abc67b07f59ded957) by kartr (https://sketchfab.com/kartr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
