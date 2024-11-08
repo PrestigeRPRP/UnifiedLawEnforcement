@@ -18,7 +18,7 @@ a.active{outline:0;text-decoration:none;}
 .navbar-default .navbar-toggle:focus{background-color: rgb(2, 24, 23);}
 .navbar-default .nav li a{text-transform:uppercase;font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:500;letter-spacing:1px;color:#fff;}
 .navbar-default .nav li a:hover,
-.navbar-default .nav li a:focus{outline:0;color:#5AA9E6;}
+.navbar-default .nav li a:focus{outline:0;color:#0B2F9F;}
 .navbar-default .navbar-nav>.active>a{border-radius:0;color: rgb(2, 24, 23);background-color:#1F2833;}
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus{color:black;background-color:#c5c6c7;}
